@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 753316d26999c9e419e604ac48dd699b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstacle: {instanceID: 0}
+  - spwanPoint: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
